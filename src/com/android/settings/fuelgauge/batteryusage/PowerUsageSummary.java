@@ -240,6 +240,11 @@ public class PowerUsageSummary extends PowerUsageBase implements
         if (!getResources().getBoolean(R.bool.config_supportBatteryHealth)) {
             getPreferenceScreen().removePreference(mCyclesHealthPref);
         }
+        // Check availability of Smart Cutoff
+        Preference mSmartCutoff = (Preference) findPreference("smart_cutoff_key");
+        if (!getResources().getBoolean(R.bool.config_supportSmartCutoff)) {
+            getPreferenceScreen().removePreference(mSmartCutoff);
+       }
     }
 
     @Override
