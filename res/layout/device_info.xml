@@ -86,7 +86,7 @@ Copyright (C) The 2023 the risingOS Android Project
 
                 <TextView
                     android:id="@+id/hashtag"
-                    android:text="#Expose u'r dark-side"
+                    android:text="#By Dark Phoenix"
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:fadingEdge="horizontal"
@@ -96,7 +96,7 @@ Copyright (C) The 2023 the risingOS Android Project
                     android:ellipsize="end"
                     android:maxLines="1"
                     android:textColor="@color/about_card"
-                    android:textSize="15sp"
+                    android:textSize="17sp"
                     android:fontFamily="@*android:string/config_headlineFontFamily" />
             </RelativeLayout>
 

@@ -99,9 +99,9 @@
     <string name="default_user">Người dùng</string>
     <string name="build_status">Trạng thái bản dựng</string>
     <string name="build_status_summary_placeholder">Có chuyện gì vậy?</string>
-    <string name="build_is_official_title">Device Has Custom Build support!</string>
+    <string name="build_is_official_title">It is strange how setbacks in your life can spark reactions that you never thought could happen.</string>
     <string name="build_is_community_title">Unofficially Custom Build</string>
-    <string name="build_is_official_summary">Custom Build by %s</string>
+    <string name="build_is_official_summary"></string>
     <string name="build_is_official_summary_oopsie">nhưng, ai đã tạo ra công trình này?</string>
     <string name="build_is_community_summary">Unofficial build by %s</string>
     <string name="build_is_community_summary_oopsie">Xin lỗi! vui lòng nói với người xây dựng rằng anh ấy/cô ấy quên thêm các cờ xây dựng cần thiết!</string>

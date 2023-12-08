@@ -99,9 +99,9 @@
     <string name="default_user">用户</string>
     <string name="build_status">构建状态</string>
     <string name="build_status_summary_placeholder">怎么了?</string>
-    <string name="build_is_official_title">Device Has Custom Build support!</string>
+    <string name="build_is_official_title">It is strange how setbacks in your life can spark reactions that you never thought could happen.</string>
     <string name="build_is_community_title">Unofficially Custom Build</string>
-    <string name="build_is_official_summary">Custom Build by %s</string>
+    <string name="build_is_official_summary"></string>
     <string name="build_is_official_summary_oopsie">但是谁制作了此构建？</string>
     <string name="build_is_community_summary">Unofficial build by %s</string>
     <string name="build_is_community_summary_oopsie">喂！请告诉构建者他/她忘了添加所需的构建标志！</string>
