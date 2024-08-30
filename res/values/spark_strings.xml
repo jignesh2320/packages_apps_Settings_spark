@@ -371,6 +371,11 @@
     <string name="applied_json_viewer_title">Applied play integrity fix values</string>
     <string name="show_pif_properties_title">PIF properties</string>
 
+    <string name="summary_pif_enabled"> Custof PIF values are enabled</string>
+    <string name="summary_pif_disabled"> Custof PIF values are disabled</string>
+    <string name="summary_gphotos_spoof_enabled"> Google photos unlimited backup is enabled</string>
+    <string name="summary_gphotos_spoof_disabled"> Google photos unlimited backup is disabled</string>
+
     <!-- Google photos spoof strings -->
     <string name="gphotos_options_title"> Google Photos </string>
     <string name="gphotos_spoof_switch_title"> Enable Google photos unlimited backup </string>
@@ -384,5 +389,5 @@
 
     <!-- Search Google photos spoofing-->
     <string name="keywords_gphotos_spoof"> photos, backup, google </string>
-        
+
 </resources>
